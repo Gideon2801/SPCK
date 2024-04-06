@@ -1,0 +1,478 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    background-color: brown;
+    padding-left: 50px;
+    font-size: 9px;
+    padding-top: 10px;
+}
+
+.navbar4 {
+    display: flex;
+    color: white;
+}
+
+.email {
+    margin-left: 20px;
+    color: white;
+}
+
+.giohang {
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline-block;
+    color: white;
+}
+
+.trangtru {
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 20px;
+    display: inline-block;
+    color: white;
+}
+
+.gioi {
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+    color: white;
+}
+
+.cuahangnavbar {
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+    color: white;
+}
+
+.cuahang p {
+    margin-top: 25px;
+    font-size: 30px;
+}
+
+.cuahang h2 {
+    margin-left: 10px;
+    font-size: 30px;
+    margin-top: 25px;
+}
+
+
+
+.lienhe {
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+    color: white;
+}
+
+.blog {
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: inline-block;
+    color: white;
+}
+
+
+
+
+
+
+.login {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+}
+
+.login1 {
+    margin-left: 700px;
+    padding-top: 8px;
+    font-size: 18px;
+}
+
+.login:hover {
+    color: yellow;
+}
+
+.giohang:hover {
+    color: yellow;
+}
+
+.logo {
+    background-color: rgb(136, 6, 6);
+    display: flex;
+
+}
+
+.logo3 {
+    display: flex;
+    margin-left: 570px;
+    font-size: 22px;
+    padding-top: 30px;
+
+}
+
+.logo2 {
+    height: 90px;
+    width: 140px;
+    padding-left: 50px;
+}
+
+.namsp1 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+   margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp1:hover{
+    transform: translateY(-0.1in);
+    
+}
+.namsp2 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp2:hover{
+    transform: translateY(-0.1in);
+    
+}
+
+.namsp3 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp3:hover{
+    transform: translateY(-0.1in);
+    
+}
+.namsp4 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp4:hover{
+    transform: translateY(-0.1in);
+    
+}
+
+.namsp5 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp5:hover{
+    transform: translateY(-0.1in);
+    
+}
+
+.namsp6 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp6:hover{
+    transform: translateY(-0.1in);
+    
+}
+
+.namsp7 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp7:hover{
+    transform: translateY(-0.1in);
+    
+}
+
+.namsp8 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp8:hover{
+    transform: translateY(-0.1in);
+    
+}
+.namsp9 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp9:hover{
+    transform: translateY(-0.1in);
+    
+}
+.namsp10 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp10:hover{
+    transform: translateY(-0.1in);
+    
+}
+
+.namsp11 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp11:hover{
+    transform: translateY(-0.1in);
+    
+}
+.namsp12 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp12:hover{
+    transform: translateY(-0.1in);
+    
+}
+
+.namsp13 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp13:hover{
+    transform: translateY(-0.1in);
+    
+}
+
+.namsp14 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp14:hover{
+    transform: translateY(-0.1in);
+    
+}
+
+.namsp15 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp15:hover{
+    transform: translateY(-0.1in);
+    
+}
+
+.namsp16 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp16:hover{
+    transform: translateY(-0.1in);
+    
+}
+
+.namsp17 {
+
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.namsp17:hover{
+    transform: translateY(-0.1in);
+    
+}
+
+.cuahang {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 10px;
+    margin-left: 520px;
+    font-size: 40px;
+}
+
+.cuahang1 {
+    display: flex;
+}
+
+
+
+
+.cuahang2 {
+    display: flex;
+    padding-left: 600px;
+    font-size: larger;
+}
+
+.macdinh {
+    padding-left: 50px;
+    border: 2px solid gray;
+}
+
+.sp2 {
+    display: flex;
+    border: 1px solid whitesmoke;
+    margin-left: 50px;
+    margin-right: 1100px;
+}
+
+.imgsp img {
+    height: 70px;
+    width: 70px;
+    display: block;
+    margin-top: 21px;
+}
+
+.tensp {
+    margin-top: 17px;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.tensp h6 {
+    margin-top: 0;
+    font-size: 13px;
+}
+
+.sp {
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+.sp4 img {
+    height: 200px;
+    width: 200px;
+}
+
+.sp4 {
+    display: grid;
+    margin-top: -500px;
+    grid-template-columns: auto auto auto auto;
+    margin-left: 400px;
+    
+}
+
+.sp4 h1 {
+    font-size: 19px;
+    color: brown;
+    margin-left: 15px;
+}
+
+.sp4 p {
+    margin-left: 15px;
+    font-size: 17px;
+}
+
+.sp4 p:hover {
+    color: red;
+}
+
+.Footer {
+    position: relative;
+}
+
+.Footer img {
+    width: 100%;
+    height: 700px;
+}
+
+.full {
+    position: absolute;
+    top: 120px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 60px;
+    color: white;
+    margin-left: 130px;
+    margin-right: 150px;
+    font-size: larger;
+
+}
+
+.icon7 {
+    background-color: white;
+}
+
+.map {
+    padding-top: 30px;
+    height: 340px;
+    width: 280px;
+}

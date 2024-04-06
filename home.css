@@ -1,0 +1,863 @@
+body {
+    margin: 0;
+    background-image: url("https://tetviet.monamedia.net/wp-content/uploads/2023/12/banner_1-scaled.jpg");
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+}
+.login2{
+    display: flex;
+
+}
+.login2 h2{
+    color: white;
+}
+.login1{
+   padding-left: 600px;
+  margin-top: -5px;
+}
+.login3{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+    font-size: 10px;
+    padding-left: 30px;
+    padding-top: 10px;
+height: 0;
+}
+.logo2{
+    width: 140px;
+    height: 90px;
+    margin-right: 20px;
+}
+
+.login3 h2:hover{
+color: yellow;
+}
+.xemthem{
+    padding-bottom: 40px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(245, 245, 245, 0.035);
+    color: white;
+    position: relative;
+    font-size: 10px;
+    width: 100%;
+    height: 90vh;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.spkhac h2{
+    padding-bottom: 40px;
+}
+.email{
+    color: white;
+    margin: 0;
+    font-size: 30px;
+}
+
+.navbar2 {
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    width: 550px;
+    left: 800px;
+    z-index: 100;
+    padding-top: 50px;
+    top:15px;
+}
+
+.navbar2 h2 {
+    margin-top: 30px;
+}
+
+.blur {
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+
+
+.navbar blur img {
+    position: absolute;
+    top: -35px;
+    max-width: 100%;
+}
+
+
+
+.login {
+    text-decoration: none;
+    font-size: 20px;
+    
+    display: inline-block;
+    
+    color: white;
+    
+}
+.login1 a:hover {
+    color: yellow;
+   
+}
+.giohang{
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 10px;
+    display: inline-block;
+    color: white;
+    padding-left: 20px;
+}
+.icon7{
+    color: white;
+}
+.cuahang{
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 10px;
+    display: inline-block;
+    color: white;
+    padding-top: 15px;
+font-weight: 1000;
+}
+.gioi {
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 18px;
+    padding-top: 7px;
+    font-weight: 1000;
+    color: white;
+}
+
+.trangtru {
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 18px;
+    padding-top: 7px;
+    font-weight: 1000;
+    color: white;
+}
+
+.lienhe {
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 18px;
+    padding-top: 7px;
+    font-weight: 1000;
+    color: white;
+}
+.blog {
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 18px;
+    padding-top: 7px;
+    font-weight: 1000;
+    color: white;
+}
+
+.navbar2 a:hover {
+    color: red;
+    border: 0px solid wheat;
+}
+
+.navbar navbar2 h2:hover {
+    color: red;
+    border: 0px solid wheat;
+}
+
+.navbar svg {
+    height: 19px;
+    width: 19px;
+
+}
+
+.anhbia img {
+    position: relative;
+    width: 100%;
+    height: 700px;
+
+}
+
+.mona {
+    position: absolute;
+    top: 150px;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.mona h3 {
+    color: rgb(255, 225, 0);
+    font-size: 27px;
+}
+
+.mona h1 {
+    padding-bottom: 40px;
+}
+
+.chu {
+    text-align: center;
+    color: red;
+    font-size: smaller;
+    background-color: white;
+}
+
+h1 {
+    margin: 0;
+    padding-top: 40px;
+}
+
+.quy {
+    padding-top: 20px;
+}
+
+.sp {
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+    font-size: 36px;
+    padding-bottom: 50px;
+}
+
+.banchay {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding-left: 35px;
+    background-color: white;
+}
+.banchay h1{
+    font-size: 22px;
+    color: brown;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.banchay p{
+    font-size: 23px;
+}
+.spbanchay{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    margin-left: 40px;
+    text-align: center;
+}
+.spbanchay:hover{
+    transform: translateY(-0.1in);
+}
+.spbanchay2{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+}
+.spbanchay2:hover{
+    transform: translateY(-0.1in);
+}
+.spbanchay3{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+}
+.spbanchay3:hover{
+    transform: translateY(-0.1in);
+}
+
+.spbanchay4{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+}
+.spbanchay4:hover{
+    transform: translateY(-0.1in);
+}
+
+.spbanchay5{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    margin-right: 50px;
+}
+.spbanchay5:hover{
+    transform: translateY(-0.1in);
+}
+.sphang1{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.sphang1:hover{
+    transform: translateY(-0.1in);
+}
+.sphang2{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.sphang2:hover{
+    transform: translateY(-0.1in);
+}
+.sphang3{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.sphang3:hover{
+    transform: translateY(-0.1in);
+}
+
+.sphang4{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.sphang4:hover{
+    transform: translateY(-0.1in);
+}
+
+.sphang5{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.sphang5:hover{
+    transform: translateY(-0.1in);
+}
+.quatet1{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.quatet1:hover{
+    transform: translateY(-0.1in);
+}
+.quatet2{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.quatet2:hover{
+    transform: translateY(-0.1in);
+}
+.quatet3{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.quatet3:hover{
+    transform: translateY(-0.1in);
+}
+.quatet4{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.quatet4:hover{
+    transform: translateY(-0.1in);
+}
+.quatet5{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.quatet5:hover{
+    transform: translateY(-0.1in);
+}
+
+.spkhac2{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.spkhac2:hover{
+    transform: translateY(-0.1in);
+}
+
+.spkhac3{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.spkhac3:hover{
+    transform: translateY(-0.1in);
+}
+.spkhac4{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.spkhac4:hover{
+    transform: translateY(-0.1in);
+}
+.spkhac5{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.spkhac5:hover{
+    transform: translateY(-0.1in);
+}
+.spkhac6{
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+    transition: transform 0.7s;
+    width: 250px;
+    text-align: center;
+    
+}
+.spkhac6:hover{
+    transform: translateY(-0.1in);
+}
+
+
+
+
+
+.banchay img {
+    height: 200px;
+    width: 200px;
+}
+
+.giotet {
+    text-align: center;
+    background-color: white;
+
+}
+
+.giotet h1 {
+    /* margin-left: 400px; */
+    color: red;
+}
+
+.giotet h2 {
+    text-align: right;
+    padding-right: 40px;
+    margin: 0;
+}
+
+.hang {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: white;
+    padding-right: 50px;
+    padding-left: 70px;
+}
+.hang h1{
+    color: rgb(175, 4, 4);
+    font-size: 22px;
+    padding-bottom: 20px;
+    padding-top: 8px;
+}
+.hang p{
+    font-size: 22px;
+    padding-top: 10px;
+}
+.hang img {
+    height: 200px;
+    width: 200px;
+}
+.sphang4 h1{
+    padding-top: 35px;
+}
+.sphang5 h1{
+    padding-top: 35px;
+}
+.hopquatet {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding-left: 35px;
+    background-color: white;
+    padding-right: 50px;
+    padding-left: 70px;
+}
+.hopquatet h1{
+    font-size: 22px;
+    color: brown;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.hopquatet p{
+    font-size: 23px;
+    padding-top: 20px;
+}
+.hopquatet img {
+    height: 200px;
+    width: 200px;
+}
+
+.hopqua h1 {
+    text-align: center;
+    color: red;
+}
+
+.hopqua h2 {
+    text-align: right;
+    padding-right: 40px;
+    margin: 0;
+    padding-bottom: 40px;
+}
+
+.hopqua {
+    background-color: white;
+
+}
+
+.spkhac h1 {
+    text-align: center;
+    color: red;
+}
+
+.spkhac {
+    background-color: white;
+
+}
+
+.spkhac h2 {
+    text-align: right;
+    padding-right: 40px;
+    margin: 0;
+}
+
+.khac {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding-left: 35px;
+    background-color: white;
+    padding-right: 50px;
+    padding-left: 70px;
+    padding-bottom: 90px;
+}
+.khac h1{
+    font-size: 22px;
+    color: brown;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+.khac p{
+    font-size: 23px;
+    margin-top: 10px;
+}
+.khac img {
+    height: 200px;
+    width: 200px;
+}
+
+.day {
+    position: relative;
+
+}
+
+.day2 {
+    margin-left: 10px;
+    color: white;
+    position: absolute;
+    top: 150px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: -120px;
+
+}
+
+.line {
+    margin-top: 70px;
+    margin-bottom: -0.2px;
+}
+
+.day2 p {
+    color: yellow;
+    font-size: smaller;
+    margin-bottom: 35px;
+}
+
+
+.day2 img {
+    height: 350px;
+    width: 350px;
+    border: 2px solid yellow;
+    border: 2px solid white;
+    margin-left: 45px;
+    margin-right: 45px;
+    padding: 10px;
+
+
+}
+
+
+.day2 h1 {
+    top: 0;
+}
+
+.icon {
+    display: grid;
+    background-color: white;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    padding-right: 50px;
+    padding-left: 70px;
+    padding-top: 70px;
+}
+.icon h1{
+    font-size: 20px;
+}
+.icon img{
+height: 120px;
+width: 120px;
+padding-left: 30px;
+}
+.video1{
+    grid-row:  1 / 3;
+    
+}
+.moi1{
+    height: 120px;
+    width: 120px;
+    padding-left: 30px;
+}
+
+
+.moi h1 {
+    font-size: 10px;
+}
+
+.mona2 {
+    text-align: center;
+    top: 0;
+}
+
+.mona2 h2 {
+    color: red;
+    font-size: 40px;
+    padding-top: 140px;
+}
+
+.mona2 p {
+    font-weight: 2000px;
+    font-style: italic;
+    font-size: 27px;
+}
+
+.mona2 h1 {
+    color: red;
+    margin-top: -40px;
+    /* margin-bottom: 40px; */
+}
+
+.nam img {
+    height: 560px;
+    width: 2110px;
+}
+
+.nu {
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+    padding-left: 100px ;
+    padding-right: 100px;
+    
+}
+
+.line3{
+    padding-bottom: 20px;
+}
+
+    
+
+.nam1 {
+    margin-left: 50px;
+    font-size: 20px;
+padding-top: 180px;
+}
+.them{
+    
+}
+.nam1 h2 {
+    color: red;
+}
+
+
+.skhoe2 {
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+    padding-left: 100px ;
+    padding-right: 100px;
+    
+}
+.skhoe3{
+    padding-top: 220px;
+    padding-right: 60px;
+    font-size: 22px;
+}
+.skhoe img {
+    
+    width: 600px;
+    /* margin-right: 50px; */
+}
+
+.skhoe2 {
+    margin-left: 50px;
+    font-size: 20px;
+    
+}
+
+.skhoe2 h2 {
+    color: red;
+}
+
+.camket {
+    display: flex;
+    justify-content: space-around;
+position: relative;
+font-size: larger;
+}
+.imgkhoe{
+padding-bottom: 70px;
+}
+.camket3 {
+    position: absolute;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+    color: white;
+    margin-left: 130px;
+    margin-right: 130px;
+    text-align: left;
+}.camket3 h1{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.camket img {
+    width: 100%;
+    height: 690px;
+}
+
+.camket h1 {
+    color: yellow;
+    margin-top: 60px;
+}
+.camket1 p{
+    margin-bottom: 30px;
+}
+.camket2 p{
+    margin-top: 30px;
+    
+}
+.camket2{
+    margin-left: 20px;
+}
+.camket2 h1{
+    font-weight: 1000;
+}
+.Footer {
+    position: relative;
+}
+
+.full {
+    position: absolute;
+    top: 120px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 60px;
+    color: white;
+    margin-left: 130px;
+    margin-right: 150px;
+    font-size: larger;
+
+}
+
+
+
+.icon7 {
+    
+}
+
+.lon {
+    background-color: white;
+}
+
+.giadinh {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    margin-right: 100px;
+    font-size: larger;
+    margin-left: 20px;
+}
+
+.giadinh img {
+    height: 240px;
+    width: 240px;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+
+.giadinh h1 {
+    color: red;
+    margin-top: 30px;
+}
+.namda2{
+    height: 10px;
+    width: 10px;
+}
+.map{
+    padding-top: 30px;
+    height: 370px;
+    width: 280px;
+}
+.imgg3{
+    height: 700px;
+    width: 100%;
+}
+.footer2 p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.footer2 {
+    font-size: 22px;
+}
+.footer2 p:hover{
+    color: red;
+}
+.footer3 p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.footer3 p:hover{
+    color: red;
+}

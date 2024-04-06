@@ -1,0 +1,75 @@
+.body h1 h2{
+    margin: 0;
+
+}
+.body{
+    margin: 0;
+}
+
+.sumenh img {
+    height: 130px;
+    width: 130px;
+}
+
+
+.mona2{
+    background-color: white;
+    padding-top: -200px;
+}
+.chuyen{
+    color: yellow;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+}
+.chuyen p{
+    color: white;
+    padding-top:20px;
+    padding-bottom: 20px;
+    font-size: larger;
+}
+.chuyen h1{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.sumenh {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: white;
+   padding-top: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 70px;
+}
+.sumenh p{
+    padding-left: 20px;
+    padding-right: 20px ;
+}
+.sumenh h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.monatetviet img{
+    width: 100%;
+    height: 600px ;
+    position: absolute;
+}
+.monatetviet2{
+   text-align: center;
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    padding-left: 210px;
+    padding-right: 100px;
+    padding-top: 200px;
+}
+.monatetviet2 p{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: 29px;
+}
+.monatetviet{
+    position: relative;
+}

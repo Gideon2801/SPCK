@@ -1,0 +1,69 @@
+.body{
+    margin: 0;
+}
+.blog1 h1{
+background-color: white;
+text-align: center;
+}
+.blogtet{
+    background-color: white;
+    display: flex;
+padding-right: 40px;
+}
+.ngaytet p{
+    padding-left: 50px;
+}
+.ngayteth2{
+    padding-left: 50px;
+}
+.blogtet1 img{
+width: 750px;
+height: 400px;
+padding-right: 30px;
+padding-left: 30px;
+padding-top: 20px;
+}
+.blogtet2 img{
+    width: 150px;
+    height: 150px;
+}
+.blogtet2{
+    display: flex;
+}
+.tetchu p,h2{
+/* padding-left: 10px; */
+padding-top: 20px;
+}
+.tetchu h2{
+    font-size: 20px;
+    
+}
+.blogtet5 img{
+    padding-top: 20px;
+}
+
+.new1{
+    background-color: white;
+    text-align: center;
+    font-size: larger;
+    padding-bottom: 60px;
+    padding-top: 50px;
+    padding-right: 50px;
+}
+.new{
+    background-color: white;
+    padding-bottom: 50px;
+}
+.blognew2 img{
+    height: 230px;
+    width: 400px;
+  
+}
+
+.new{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
